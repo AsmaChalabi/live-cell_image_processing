@@ -101,7 +101,7 @@ to_frame =250 # last frame to read
 
 
 
-acq_seq = ["yfp","cfp", "___"]#["yfp","cherry","___"]   # acquisition_sequence_of_timelapse_images
+acq_seq = ["cfp","yfp", "___"]#["yfp","cherry","___"]   # acquisition_sequence_of_timelapse_images
                                    # if channel_name = "___" (three underscores), the channel won't be analysed
                                    # ---> ["channel_1_name","channel_2_name",..] 
 
